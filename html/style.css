@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-/* Button styling */
+    /* Button styling */
     .adidas-btn{
         background-color:black;
         color:white;
@@ -23,10 +16,3 @@
         color:black;
         border:2px solid black;
     }
-
-<body>
-
-        <button class="adidas-btn">shop now</button>
-    
-</body>
-</html>
